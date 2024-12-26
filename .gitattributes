@@ -1,0 +1,2 @@
+*.sql linguist-detectable=true
+*.pdf linguist-documentation
