@@ -20,10 +20,10 @@ The SQL Advent Calendar provided a fun and engaging way to improve SQL skills wi
 ## 🛠️ Structure
 
 Each pdf corresponds to a specific quarter:
-- **`sql-advent-1-2024`**: Challenges for Q1
-- **`sql-advent-2-2024`**: Challenges for Q2
-- **`sql-advent-3-2024`**: Challenges for Q3
-- **`sql-advent-4-2024`**: Challenges for Q4
+- **`sql-advent-calendar-1-2024`**: Challenges for Q1
+- **`sql-advent-calendar-2-2024`**: Challenges for Q2
+- **`sql-advent-calendar-3-2024`**: Challenges for Q3
+- **`sql-advent-calendar-4-2024`**: Challenges for Q4
 
 ## 📚 Lessons Learned
 
